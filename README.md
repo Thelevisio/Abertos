@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://mondrian.claro.com.br/channels/default/cultura.png" group-title="ABERTOS",TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-name="GLOBO RJ" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.png" group-title="ABERTOS",GLOBO RJ
-
+https://live-cm-ah-21-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMzgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM3MzgyMjk1LCJpYXQiOjE3MzcyOTU4OTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOTZhMDg1ZmYtZGQ0MS00ZmU3LWEwMTQtMTkyYzYxNmVmZjQ3IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.Lgaan58iKj7BTrgVgujEJGTa-1Er4LCcE7Zy7iKVAC-hxhfoNYSSEOZKCdFIc5fgx5z_lD3V5VsRFztzTVhywm1OdXjl1Xy8JFe-WLpPmb7viY6d88mfHdwC4g1nMq8ZfsMxyUn67Zp-DyDd8xuJm9kXcZnV5QzWtukSoGBzGfbbnHBRJ21VdT2hvdXSgI1jHV4B06L6lkCozlgliJ7GVRpLALa6MsHafvjBN315qVyBVxQFf7QJcNScAh1PEnupPsnRXHMeFLegkB9mo6Rl-8uWhcGL4JyzU2nAB-3kBzHRsH7OsVXi_mXnW9ejvj7FDTdaIUYHI4ARhfS28LkPiw/nu/f(i=2)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/wBmfs4-QQVOqpPjYlG0ihw/stream/a5f8c098-9d77-4a40-8641-2404442e0980:SCL/variant/e74479202a6c1c04133ccd9175af7101/bandwidth/6577000.m3u8
 #EXTINF:-1 tvg-name="REDE TV" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv!.png" group-title="ABERTOS",REDE TV!
 
 #EXTINF:-1 tvg-name="BAND RIO" tvg-logo="https://encurtador.com.br/sEM1H" group-title="ABERTOS",BAND RIO
